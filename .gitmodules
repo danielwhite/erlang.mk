@@ -1,0 +1,6 @@
+[submodule "deps/cowlib"]
+	path = deps/cowlib
+	url = https://github.com/ninenines/cowlib
+[submodule "deps/ranch"]
+	path = deps/ranch
+	url = https://github.com/ninenines/ranch

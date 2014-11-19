@@ -15,6 +15,8 @@ PLT_APPS = crypto public_key ssl
 DEPS = cowlib ranch
 TEST_DEPS = ct_helper gun
 dep_ct_helper = git https://github.com/extend/ct_helper.git master
+dep_cowlib = git submodule
+dep_ranch = git submodule
 
 # Standard targets.
 
